@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <img src="https://avatars3.githubusercontent.com/u/40232557?s=60&v=4" width=128 height=128>
+  <img src="https://avatars2.githubusercontent.com/u/40232557?s=460&u=c0a54719d6cf832991cc59447390c4c25c67af07&v=4" width=128 height=128>
   <br>
   <b>Hi, I'm Leo from Germany</b>
   <br>
